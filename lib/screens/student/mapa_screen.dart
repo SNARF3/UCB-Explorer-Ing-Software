@@ -23,6 +23,8 @@ class MapaScreen extends StatelessWidget {
       const Color.fromARGB(255, 3, 121, 52),
     ];
 
+
+//Agregar Colores
     final puntos = [
       PuntoMapa(
         offset: const Offset(100, 30),
