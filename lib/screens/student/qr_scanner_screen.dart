@@ -6,6 +6,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 class QRScannerScreen extends StatefulWidget {
   const QRScannerScreen({super.key});
 
+
+//Corregir errores de escaneo 
   @override
   State<QRScannerScreen> createState() => _QRScannerScreenState();
 }

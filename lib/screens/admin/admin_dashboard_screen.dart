@@ -76,6 +76,7 @@ class AdminDashboardScreen extends StatelessWidget {
                   label: 'Banco de Preguntas',
                   route: '/admin-ver-preguntas',
                 ),
+
                 // 🔥 Nuevo botón para ir al Dashboard
                 _buildAdminButton(
                   context,

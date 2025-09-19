@@ -45,6 +45,8 @@ class _ChatWidgetState extends State<ChatWidget> with SingleTickerProviderStateM
     });
   }
 
+  //Correccion de mensajes
+
   @override
   void dispose() {
     _animationController.dispose();
