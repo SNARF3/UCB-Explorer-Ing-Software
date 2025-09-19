@@ -76,13 +76,6 @@ class AdminDashboardScreen extends StatelessWidget {
                   label: 'Banco de Preguntas',
                   route: '/admin-ver-preguntas',
                 ),
-                _buildAdminButton(
-                  context,
-                  icon: Icons.qr_code_scanner_outlined,
-                  label: 'Banco de Códigos QR',
-                  route: '/admin-ver-qr',
-                ),
-
                 // 🔥 Nuevo botón para ir al Dashboard
                 _buildAdminButton(
                   context,
