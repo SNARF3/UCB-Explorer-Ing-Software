@@ -1,0 +1,43 @@
+name: workshoucbexplorer
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  permission_handler: ^12.0.0
+  mobile_scanner: ^7.0.0
+  firebase_core: ^4.1.0
+  cloud_firestore: ^6.0.1
+  flutter_gemini: ^3.0.0
+  cupertino_icons: ^1.0.6
+  google_generative_ai: ^0.4.7  
+  qr_flutter: ^4.1.0
+  firebase_storage: ^13.0.1
+  path_provider: ^2.1.5
+  uuid: ^4.1.0
+  shared_preferences: ^2.2.2
+  url_launcher: ^6.1.11
+  http: ^1.1.0
+  fl_chart: ^0.69.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: "^0.10.0"
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "../assets/images/app-icon.jpeg"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/images/
+    - lib/assets/preguntas_ucb_san_pablo_100.json

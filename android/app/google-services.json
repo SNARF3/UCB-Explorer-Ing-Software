@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422265029495",
+    "project_id": "basedispos",
+    "storage_bucket": "basedispos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422265029495:android:8ca5be3a44428c73015772",
+        "android_client_info": {
+          "package_name": "com.example.workshoucbexplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcX8uehZvZB5pUFzSkyCnPehgcDa4mb6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

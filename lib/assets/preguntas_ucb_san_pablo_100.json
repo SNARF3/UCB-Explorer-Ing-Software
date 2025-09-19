@@ -1,0 +1,1302 @@
+[
+  {
+    "Pregunta": "¿Cuál es el nombre oficial de la sede principal de la Universidad Católica Boliviana?",
+    "opciones": [
+      "Gobierno Nacional",
+      "Pública",
+      "Universidad Católica Boliviana San Pablo",
+      "Contaduría"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Universidad Católica Boliviana San Pablo",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿En qué ciudad se encuentra la sede principal de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Juan Pérez",
+      "Pública",
+      "La Paz",
+      "Centro de Cultura Popular"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La Paz",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué entidad fundó la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "El conocimiento es poder",
+      "Conferencia Episcopal Boliviana",
+      "Biblioteca Nacional",
+      "Universidad Mayor de San Andrés"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Conferencia Episcopal Boliviana",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿En qué año se fundó la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "1966",
+      "Biblioteca Nacional",
+      "Contaduría",
+      "Centro de Lenguas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "1966",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el lema de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "UMSA",
+      "Préstamo de bicicletas",
+      "Juan Pérez",
+      "La verdad os hará libres"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La verdad os hará libres",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es la misión de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Formar atletas profesionales",
+      "Formar profesionales con excelencia académica y compromiso ético cristiano",
+      "1980",
+      "Av. Arce"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Formar profesionales con excelencia académica y compromiso ético cristiano",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué facultad ofrece la carrera de Ingeniería de Sistemas en la UCB San Pablo?",
+    "opciones": [
+      "Av. Arce",
+      "Facultad de Ciencias Exactas e Ingeniería",
+      "Contaduría",
+      "Java"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Facultad de Ciencias Exactas e Ingeniería",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué unidad organiza actividades culturales y deportivas en la UCB San Pablo?",
+    "opciones": [
+      "Pública",
+      "Formar atletas profesionales",
+      "Centro de Lenguas",
+      "Bienestar Estudiantil"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Bienestar Estudiantil",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué carrera se encuentra en la Facultad de Ciencias Sociales y Humanas en la UCB San Pablo?",
+    "opciones": [
+      "Santa Cruz",
+      "Centro de Cultura Popular",
+      "Psicología",
+      "Actividades deportivas únicamente"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Psicología",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el nombre del rector actual de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Centro de Idiomas",
+      "Marco Antonio Fernández Calderón",
+      "Contaduría",
+      "Formar atletas profesionales"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Marco Antonio Fernández Calderón",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Dónde se encuentra ubicada la entrada principal del campus de la UCB San Pablo en La Paz?",
+    "opciones": [
+      "Actividades deportivas únicamente",
+      "Juan Pérez",
+      "Centro de Idiomas",
+      "Av. 14 de Septiembre, Calacoto"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Av. 14 de Septiembre, Calacoto",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué servicio ofrece la Biblioteca Central de la UCB San Pablo?",
+    "opciones": [
+      "Java",
+      "Préstamo de libros y acceso a bases de datos académicas",
+      "Simposio de Verano",
+      "El conocimiento es poder"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Préstamo de libros y acceso a bases de datos académicas",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué unidad apoya el emprendimiento estudiantil en la UCB San Pablo?",
+    "opciones": [
+      "Contaduría",
+      "Centro de Innovación y Emprendimiento",
+      "Pública",
+      "Java"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Centro de Innovación y Emprendimiento",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué instituto de la UCB San Pablo se especializa en estudios sociales y económicos?",
+    "opciones": [
+      "Simposio de Verano",
+      "Universidad Mayor de San Andrés",
+      "Av. Arce",
+      "Instituto de Investigaciones Socio-Económicas (IISEC)"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Instituto de Investigaciones Socio-Económicas (IISEC)",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué centro de la UCB San Pablo apoya la investigación en ética cristiana?",
+    "opciones": [
+      "UMSA",
+      "Contaduría",
+      "Santa Cruz",
+      "Centro de Reflexión Teológica (CRT)"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Centro de Reflexión Teológica (CRT)",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué evento académico se realiza anualmente con participación estudiantil en la UCB San Pablo?",
+    "opciones": [
+      "Facultad de Medicina",
+      "La Semana de la Ciencia y la Tecnología",
+      "Santa Cruz",
+      "Centro de Idiomas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La Semana de la Ciencia y la Tecnología",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es la abreviatura oficial de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Java",
+      "Facultad de Medicina",
+      "UCB",
+      "Instituto Nacional de Estadística (INE)"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "UCB",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué tipo de universidad es la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Privada",
+      "Centro de Lenguas",
+      "Pública",
+      "UMSA"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Privada",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué lenguaje de programación se enseña en los primeros semestres de Ingeniería de Sistemas en la UCB San Pablo?",
+    "opciones": [
+      "1980",
+      "Actividades deportivas únicamente",
+      "Python",
+      "Centro de Cultura Popular"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Python",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué servicio ofrece el Departamento de Pastoral Universitaria en la UCB San Pablo?",
+    "opciones": [
+      "Santa Cruz",
+      "Formar atletas profesionales",
+      "Préstamo de bicicletas",
+      "Actividades de formación espiritual y voluntariado"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Actividades de formación espiritual y voluntariado",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el nombre oficial de la sede principal de la Universidad Católica Boliviana?",
+    "opciones": [
+      "Gobierno Nacional",
+      "Formar atletas profesionales",
+      "Universidad Católica Boliviana San Pablo",
+      "Centro de Lenguas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Universidad Católica Boliviana San Pablo",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿En qué ciudad se encuentra la sede principal de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "El conocimiento es poder",
+      "La Paz",
+      "Pública",
+      "Biblioteca Nacional"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La Paz",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué entidad fundó la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Facultad de Medicina",
+      "Conferencia Episcopal Boliviana",
+      "Préstamo de bicicletas",
+      "Biblioteca Nacional"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Conferencia Episcopal Boliviana",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿En qué año se fundó la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Facultad de Medicina",
+      "Pública",
+      "Santa Cruz",
+      "1966"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "1966",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el lema de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Actividades deportivas únicamente",
+      "La verdad os hará libres",
+      "Av. Arce",
+      "Santa Cruz"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La verdad os hará libres",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es la misión de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Centro de Idiomas",
+      "Centro de Lenguas",
+      "Av. Arce",
+      "Formar profesionales con excelencia académica y compromiso ético cristiano"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Formar profesionales con excelencia académica y compromiso ético cristiano",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué facultad ofrece la carrera de Ingeniería de Sistemas en la UCB San Pablo?",
+    "opciones": [
+      "Centro de Idiomas",
+      "Facultad de Ciencias Exactas e Ingeniería",
+      "Biblioteca Nacional",
+      "UMSA"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Facultad de Ciencias Exactas e Ingeniería",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué unidad organiza actividades culturales y deportivas en la UCB San Pablo?",
+    "opciones": [
+      "Bienestar Estudiantil",
+      "Instituto Nacional de Estadística (INE)",
+      "Simposio de Verano",
+      "Contaduría"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Bienestar Estudiantil",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué carrera se encuentra en la Facultad de Ciencias Sociales y Humanas en la UCB San Pablo?",
+    "opciones": [
+      "Préstamo de bicicletas",
+      "Centro de Cultura Popular",
+      "Psicología",
+      "Formar atletas profesionales"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Psicología",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el nombre del rector actual de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Av. Arce",
+      "Marco Antonio Fernández Calderón",
+      "El conocimiento es poder",
+      "Simposio de Verano"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Marco Antonio Fernández Calderón",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Dónde se encuentra ubicada la entrada principal del campus de la UCB San Pablo en La Paz?",
+    "opciones": [
+      "Juan Pérez",
+      "Pública",
+      "Av. 14 de Septiembre, Calacoto",
+      "Formar atletas profesionales"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Av. 14 de Septiembre, Calacoto",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué servicio ofrece la Biblioteca Central de la UCB San Pablo?",
+    "opciones": [
+      "Contaduría",
+      "Préstamo de bicicletas",
+      "Centro de Cultura Popular",
+      "Préstamo de libros y acceso a bases de datos académicas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Préstamo de libros y acceso a bases de datos académicas",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué unidad apoya el emprendimiento estudiantil en la UCB San Pablo?",
+    "opciones": [
+      "Centro de Innovación y Emprendimiento",
+      "Biblioteca Nacional",
+      "Centro de Idiomas",
+      "Santa Cruz"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Centro de Innovación y Emprendimiento",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué instituto de la UCB San Pablo se especializa en estudios sociales y económicos?",
+    "opciones": [
+      "Centro de Cultura Popular",
+      "Universidad Mayor de San Andrés",
+      "Instituto de Investigaciones Socio-Económicas (IISEC)",
+      "Actividades deportivas únicamente"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Instituto de Investigaciones Socio-Económicas (IISEC)",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué centro de la UCB San Pablo apoya la investigación en ética cristiana?",
+    "opciones": [
+      "Pública",
+      "Facultad de Medicina",
+      "Centro de Reflexión Teológica (CRT)",
+      "Java"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Centro de Reflexión Teológica (CRT)",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué evento académico se realiza anualmente con participación estudiantil en la UCB San Pablo?",
+    "opciones": [
+      "La Semana de la Ciencia y la Tecnología",
+      "1980",
+      "Av. Arce",
+      "UMSA"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La Semana de la Ciencia y la Tecnología",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es la abreviatura oficial de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "UCB",
+      "UMSA",
+      "Av. Arce",
+      "Centro de Lenguas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "UCB",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué tipo de universidad es la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Préstamo de bicicletas",
+      "Privada",
+      "Facultad de Medicina",
+      "El conocimiento es poder"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Privada",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué lenguaje de programación se enseña en los primeros semestres de Ingeniería de Sistemas en la UCB San Pablo?",
+    "opciones": [
+      "Contaduría",
+      "Python",
+      "Centro de Cultura Popular",
+      "Instituto Nacional de Estadística (INE)"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Python",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué servicio ofrece el Departamento de Pastoral Universitaria en la UCB San Pablo?",
+    "opciones": [
+      "Facultad de Medicina",
+      "Actividades de formación espiritual y voluntariado",
+      "Pública",
+      "Instituto Nacional de Estadística (INE)"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Actividades de formación espiritual y voluntariado",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el nombre oficial de la sede principal de la Universidad Católica Boliviana?",
+    "opciones": [
+      "Biblioteca Nacional",
+      "Formar atletas profesionales",
+      "Java",
+      "Universidad Católica Boliviana San Pablo"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Universidad Católica Boliviana San Pablo",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿En qué ciudad se encuentra la sede principal de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Contaduría",
+      "La Paz",
+      "El conocimiento es poder",
+      "Formar atletas profesionales"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La Paz",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué entidad fundó la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Pública",
+      "Conferencia Episcopal Boliviana",
+      "Juan Pérez",
+      "Simposio de Verano"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Conferencia Episcopal Boliviana",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿En qué año se fundó la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Av. Arce",
+      "El conocimiento es poder",
+      "1966",
+      "Centro de Lenguas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "1966",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el lema de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Contaduría",
+      "Centro de Idiomas",
+      "La verdad os hará libres",
+      "Formar atletas profesionales"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La verdad os hará libres",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es la misión de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Biblioteca Nacional",
+      "Formar profesionales con excelencia académica y compromiso ético cristiano",
+      "Universidad Mayor de San Andrés",
+      "UMSA"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Formar profesionales con excelencia académica y compromiso ético cristiano",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué facultad ofrece la carrera de Ingeniería de Sistemas en la UCB San Pablo?",
+    "opciones": [
+      "Facultad de Ciencias Exactas e Ingeniería",
+      "Biblioteca Nacional",
+      "Universidad Mayor de San Andrés",
+      "1980"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Facultad de Ciencias Exactas e Ingeniería",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué unidad organiza actividades culturales y deportivas en la UCB San Pablo?",
+    "opciones": [
+      "Simposio de Verano",
+      "UMSA",
+      "Bienestar Estudiantil",
+      "Centro de Cultura Popular"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Bienestar Estudiantil",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué carrera se encuentra en la Facultad de Ciencias Sociales y Humanas en la UCB San Pablo?",
+    "opciones": [
+      "Psicología",
+      "Instituto Nacional de Estadística (INE)",
+      "Universidad Mayor de San Andrés",
+      "UMSA"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Psicología",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el nombre del rector actual de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Centro de Idiomas",
+      "Marco Antonio Fernández Calderón",
+      "Formar atletas profesionales",
+      "Universidad Mayor de San Andrés"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Marco Antonio Fernández Calderón",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Dónde se encuentra ubicada la entrada principal del campus de la UCB San Pablo en La Paz?",
+    "opciones": [
+      "Universidad Mayor de San Andrés",
+      "Centro de Cultura Popular",
+      "Av. 14 de Septiembre, Calacoto",
+      "Simposio de Verano"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Av. 14 de Septiembre, Calacoto",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué servicio ofrece la Biblioteca Central de la UCB San Pablo?",
+    "opciones": [
+      "Préstamo de libros y acceso a bases de datos académicas",
+      "Formar atletas profesionales",
+      "Java",
+      "Centro de Lenguas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Préstamo de libros y acceso a bases de datos académicas",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué unidad apoya el emprendimiento estudiantil en la UCB San Pablo?",
+    "opciones": [
+      "Centro de Lenguas",
+      "Actividades deportivas únicamente",
+      "Centro de Innovación y Emprendimiento",
+      "Facultad de Medicina"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Centro de Innovación y Emprendimiento",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué instituto de la UCB San Pablo se especializa en estudios sociales y económicos?",
+    "opciones": [
+      "UMSA",
+      "Centro de Idiomas",
+      "El conocimiento es poder",
+      "Instituto de Investigaciones Socio-Económicas (IISEC)"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Instituto de Investigaciones Socio-Económicas (IISEC)",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué centro de la UCB San Pablo apoya la investigación en ética cristiana?",
+    "opciones": [
+      "Centro de Reflexión Teológica (CRT)",
+      "Java",
+      "Santa Cruz",
+      "Centro de Lenguas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Centro de Reflexión Teológica (CRT)",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué evento académico se realiza anualmente con participación estudiantil en la UCB San Pablo?",
+    "opciones": [
+      "Centro de Lenguas",
+      "El conocimiento es poder",
+      "Biblioteca Nacional",
+      "La Semana de la Ciencia y la Tecnología"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La Semana de la Ciencia y la Tecnología",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es la abreviatura oficial de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Simposio de Verano",
+      "UCB",
+      "Préstamo de bicicletas",
+      "Contaduría"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "UCB",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué tipo de universidad es la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Instituto Nacional de Estadística (INE)",
+      "Centro de Lenguas",
+      "1980",
+      "Privada"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Privada",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué lenguaje de programación se enseña en los primeros semestres de Ingeniería de Sistemas en la UCB San Pablo?",
+    "opciones": [
+      "Universidad Mayor de San Andrés",
+      "Facultad de Medicina",
+      "UMSA",
+      "Python"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Python",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué servicio ofrece el Departamento de Pastoral Universitaria en la UCB San Pablo?",
+    "opciones": [
+      "Santa Cruz",
+      "Instituto Nacional de Estadística (INE)",
+      "Gobierno Nacional",
+      "Actividades de formación espiritual y voluntariado"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Actividades de formación espiritual y voluntariado",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el nombre oficial de la sede principal de la Universidad Católica Boliviana?",
+    "opciones": [
+      "Contaduría",
+      "Universidad Mayor de San Andrés",
+      "Universidad Católica Boliviana San Pablo",
+      "Av. Arce"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Universidad Católica Boliviana San Pablo",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿En qué ciudad se encuentra la sede principal de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Santa Cruz",
+      "1980",
+      "La Paz",
+      "El conocimiento es poder"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La Paz",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué entidad fundó la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "UMSA",
+      "Simposio de Verano",
+      "Actividades deportivas únicamente",
+      "Conferencia Episcopal Boliviana"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Conferencia Episcopal Boliviana",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿En qué año se fundó la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Universidad Mayor de San Andrés",
+      "Actividades deportivas únicamente",
+      "1966",
+      "1980"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "1966",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el lema de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Santa Cruz",
+      "La verdad os hará libres",
+      "Préstamo de bicicletas",
+      "Centro de Cultura Popular"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La verdad os hará libres",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es la misión de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Centro de Idiomas",
+      "Formar profesionales con excelencia académica y compromiso ético cristiano",
+      "Préstamo de bicicletas",
+      "Centro de Cultura Popular"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Formar profesionales con excelencia académica y compromiso ético cristiano",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué facultad ofrece la carrera de Ingeniería de Sistemas en la UCB San Pablo?",
+    "opciones": [
+      "Centro de Cultura Popular",
+      "Préstamo de bicicletas",
+      "Facultad de Ciencias Exactas e Ingeniería",
+      "Av. Arce"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Facultad de Ciencias Exactas e Ingeniería",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué unidad organiza actividades culturales y deportivas en la UCB San Pablo?",
+    "opciones": [
+      "Av. Arce",
+      "Instituto Nacional de Estadística (INE)",
+      "Juan Pérez",
+      "Bienestar Estudiantil"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Bienestar Estudiantil",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué carrera se encuentra en la Facultad de Ciencias Sociales y Humanas en la UCB San Pablo?",
+    "opciones": [
+      "1980",
+      "Psicología",
+      "El conocimiento es poder",
+      "Simposio de Verano"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Psicología",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el nombre del rector actual de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Centro de Lenguas",
+      "1980",
+      "Marco Antonio Fernández Calderón",
+      "El conocimiento es poder"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Marco Antonio Fernández Calderón",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Dónde se encuentra ubicada la entrada principal del campus de la UCB San Pablo en La Paz?",
+    "opciones": [
+      "Pública",
+      "Universidad Mayor de San Andrés",
+      "Av. 14 de Septiembre, Calacoto",
+      "Actividades deportivas únicamente"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Av. 14 de Septiembre, Calacoto",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué servicio ofrece la Biblioteca Central de la UCB San Pablo?",
+    "opciones": [
+      "Centro de Idiomas",
+      "Pública",
+      "UMSA",
+      "Préstamo de libros y acceso a bases de datos académicas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Préstamo de libros y acceso a bases de datos académicas",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué unidad apoya el emprendimiento estudiantil en la UCB San Pablo?",
+    "opciones": [
+      "Facultad de Medicina",
+      "1980",
+      "Centro de Innovación y Emprendimiento",
+      "Pública"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Centro de Innovación y Emprendimiento",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué instituto de la UCB San Pablo se especializa en estudios sociales y económicos?",
+    "opciones": [
+      "1980",
+      "Instituto de Investigaciones Socio-Económicas (IISEC)",
+      "Juan Pérez",
+      "Facultad de Medicina"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Instituto de Investigaciones Socio-Económicas (IISEC)",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué centro de la UCB San Pablo apoya la investigación en ética cristiana?",
+    "opciones": [
+      "Centro de Reflexión Teológica (CRT)",
+      "Santa Cruz",
+      "El conocimiento es poder",
+      "Centro de Lenguas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Centro de Reflexión Teológica (CRT)",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué evento académico se realiza anualmente con participación estudiantil en la UCB San Pablo?",
+    "opciones": [
+      "La Semana de la Ciencia y la Tecnología",
+      "UMSA",
+      "Pública",
+      "Contaduría"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La Semana de la Ciencia y la Tecnología",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es la abreviatura oficial de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "1980",
+      "Centro de Idiomas",
+      "UCB",
+      "Facultad de Medicina"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "UCB",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué tipo de universidad es la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Privada",
+      "Biblioteca Nacional",
+      "Av. Arce",
+      "UMSA"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Privada",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué lenguaje de programación se enseña en los primeros semestres de Ingeniería de Sistemas en la UCB San Pablo?",
+    "opciones": [
+      "Préstamo de bicicletas",
+      "Python",
+      "Centro de Lenguas",
+      "Formar atletas profesionales"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Python",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué servicio ofrece el Departamento de Pastoral Universitaria en la UCB San Pablo?",
+    "opciones": [
+      "UMSA",
+      "Actividades de formación espiritual y voluntariado",
+      "1980",
+      "Universidad Mayor de San Andrés"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Actividades de formación espiritual y voluntariado",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el nombre oficial de la sede principal de la Universidad Católica Boliviana?",
+    "opciones": [
+      "Centro de Lenguas",
+      "Universidad Católica Boliviana San Pablo",
+      "Pública",
+      "Contaduría"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Universidad Católica Boliviana San Pablo",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿En qué ciudad se encuentra la sede principal de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Java",
+      "1980",
+      "La Paz",
+      "Centro de Cultura Popular"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La Paz",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué entidad fundó la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Contaduría",
+      "Java",
+      "Conferencia Episcopal Boliviana",
+      "Centro de Lenguas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Conferencia Episcopal Boliviana",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿En qué año se fundó la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Contaduría",
+      "Universidad Mayor de San Andrés",
+      "Santa Cruz",
+      "1966"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "1966",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el lema de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Gobierno Nacional",
+      "Instituto Nacional de Estadística (INE)",
+      "La verdad os hará libres",
+      "Centro de Cultura Popular"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La verdad os hará libres",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es la misión de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Java",
+      "Formar profesionales con excelencia académica y compromiso ético cristiano",
+      "Préstamo de bicicletas",
+      "Instituto Nacional de Estadística (INE)"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Formar profesionales con excelencia académica y compromiso ético cristiano",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué facultad ofrece la carrera de Ingeniería de Sistemas en la UCB San Pablo?",
+    "opciones": [
+      "Juan Pérez",
+      "Java",
+      "Facultad de Ciencias Exactas e Ingeniería",
+      "El conocimiento es poder"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Facultad de Ciencias Exactas e Ingeniería",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué unidad organiza actividades culturales y deportivas en la UCB San Pablo?",
+    "opciones": [
+      "Facultad de Medicina",
+      "Centro de Idiomas",
+      "Bienestar Estudiantil",
+      "Préstamo de bicicletas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Bienestar Estudiantil",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué carrera se encuentra en la Facultad de Ciencias Sociales y Humanas en la UCB San Pablo?",
+    "opciones": [
+      "Gobierno Nacional",
+      "Simposio de Verano",
+      "Psicología",
+      "Java"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Psicología",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es el nombre del rector actual de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Marco Antonio Fernández Calderón",
+      "Av. Arce",
+      "Actividades deportivas únicamente",
+      "Instituto Nacional de Estadística (INE)"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Marco Antonio Fernández Calderón",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Dónde se encuentra ubicada la entrada principal del campus de la UCB San Pablo en La Paz?",
+    "opciones": [
+      "Santa Cruz",
+      "Facultad de Medicina",
+      "Av. 14 de Septiembre, Calacoto",
+      "Actividades deportivas únicamente"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Av. 14 de Septiembre, Calacoto",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué servicio ofrece la Biblioteca Central de la UCB San Pablo?",
+    "opciones": [
+      "Formar atletas profesionales",
+      "Préstamo de libros y acceso a bases de datos académicas",
+      "Biblioteca Nacional",
+      "Simposio de Verano"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Préstamo de libros y acceso a bases de datos académicas",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué unidad apoya el emprendimiento estudiantil en la UCB San Pablo?",
+    "opciones": [
+      "Préstamo de bicicletas",
+      "Facultad de Medicina",
+      "Centro de Innovación y Emprendimiento",
+      "Santa Cruz"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Centro de Innovación y Emprendimiento",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué instituto de la UCB San Pablo se especializa en estudios sociales y económicos?",
+    "opciones": [
+      "Centro de Lenguas",
+      "Préstamo de bicicletas",
+      "Instituto de Investigaciones Socio-Económicas (IISEC)",
+      "UMSA"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Instituto de Investigaciones Socio-Económicas (IISEC)",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué centro de la UCB San Pablo apoya la investigación en ética cristiana?",
+    "opciones": [
+      "Santa Cruz",
+      "Centro de Reflexión Teológica (CRT)",
+      "Instituto Nacional de Estadística (INE)",
+      "Universidad Mayor de San Andrés"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Centro de Reflexión Teológica (CRT)",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué evento académico se realiza anualmente con participación estudiantil en la UCB San Pablo?",
+    "opciones": [
+      "La Semana de la Ciencia y la Tecnología",
+      "Instituto Nacional de Estadística (INE)",
+      "Juan Pérez",
+      "Préstamo de bicicletas"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "La Semana de la Ciencia y la Tecnología",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Cuál es la abreviatura oficial de la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Centro de Idiomas",
+      "Universidad Mayor de San Andrés",
+      "Actividades deportivas únicamente",
+      "UCB"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "UCB",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué tipo de universidad es la Universidad Católica Boliviana San Pablo?",
+    "opciones": [
+      "Privada",
+      "Centro de Idiomas",
+      "Facultad de Medicina",
+      "Universidad Mayor de San Andrés"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Privada",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué lenguaje de programación se enseña en los primeros semestres de Ingeniería de Sistemas en la UCB San Pablo?",
+    "opciones": [
+      "Biblioteca Nacional",
+      "Simposio de Verano",
+      "Universidad Mayor de San Andrés",
+      "Python"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Python",
+    "tipo": "multiple"
+  },
+  {
+    "Pregunta": "¿Qué servicio ofrece el Departamento de Pastoral Universitaria en la UCB San Pablo?",
+    "opciones": [
+      "Instituto Nacional de Estadística (INE)",
+      "Java",
+      "Centro de Lenguas",
+      "Actividades de formación espiritual y voluntariado"
+    ],
+    "puntos": 100,
+    "respondida": false,
+    "respuesta": "Actividades de formación espiritual y voluntariado",
+    "tipo": "multiple"
+  }
+]
