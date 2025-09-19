@@ -14,6 +14,8 @@ class PremiosScreen extends StatelessWidget {
       {'nombre': 'Tomatodo', 'imagen': 'tomatodo.jpg', 'puntos': 3500},
     ];
 
+    //Mejorar Premios
+
     return Scaffold(
       appBar: AppBar(
         title: const Text('Premios Disponibles', 

@@ -7,6 +7,8 @@ import 'package:shared_preferences/shared_preferences.dart';
 class TriviaScreen extends StatefulWidget {
   const TriviaScreen({super.key});
 
+
+//Correccion de preguntas de la trivia
   @override
   _TriviaScreenState createState() => _TriviaScreenState();
 }

@@ -18,6 +18,8 @@ class _LoadingScreenState extends State<LoadingScreen> {
     });
   }
 
+  // Mejora de estetica
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
